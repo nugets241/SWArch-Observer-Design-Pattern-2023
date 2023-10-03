@@ -1,11 +1,11 @@
-# Starter project for the Adapter Design pattern
+# Starter project for the Observer Design pattern
 
 Contains essentially empty Java Maven project skeleton with basic Junit5 example. 
 Can be used as starter for adapter design pattern exercise.
  
 ## Running the code
 
-The "main" main() function is in App.java.
+The "main" main() function is in WeatherStation.java.
 
 ## CLI - Building and running the code
 
